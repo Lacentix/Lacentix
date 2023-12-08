@@ -1,4 +1,4 @@
-Android Embedded Engineer at [Murena](https://murena.com/);<br>
+Embedded Software Engineer at [Murena](https://murena.com/);<br>
 During my free time, I actively contribute to open-source projects on GitHub, mostly related to android.;<br>
 I have made contributions to a variety of open-source projects and organizations, including AOSPA, Dumpyara, YAAP, etc;<br>
 I also maintain and contribute to a few devices like Mi 9T Pro, OnePlus 8, and OnePlus Nord;<br>
@@ -85,4 +85,4 @@ O9yZW2Y=
 </details>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Lacentix&include_all_commits=true&show_icons=true&theme=radical&count_private=true&hide_border=true"/>
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=ahmedharhash&cover_image=true&theme=default&show_offline=false&background_color=141321&interchange=true&bar_color=fe428e&bar_color_cover=true" width="150" height="198"/>
+<img src="https://apple-music-readme-olive.vercel.app" width="150" height="198"/>
