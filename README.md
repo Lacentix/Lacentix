@@ -85,4 +85,3 @@ O9yZW2Y=
 </details>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Lacentix&include_all_commits=true&show_icons=true&theme=radical&count_private=true&hide_border=true"/>
-<img src="https://apple-music-readme-olive.vercel.app" width="150" height="198"/>
