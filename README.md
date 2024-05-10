@@ -1,8 +1,8 @@
-Embedded Software Engineer at [Murena](https://murena.com/);<br>
+Software Engineer at [Murena](https://murena.com/);<br>
 During my free time, I actively contribute to open-source projects on GitHub, mostly related to android.;<br>
 I have made contributions to a variety of open-source projects and organizations, including AOSPA, Dumpyara, YAAP, etc;<br>
 I also maintain and contribute to a few devices like Mi 9T Pro, OnePlus 8, and OnePlus Nord;<br>
-I fork, or create most of my open-source projects to document my learning progess, and to address issues that reflect on the UX;<br>
+I fork, or create most of my open-source projects to document my learning progess;<br>
   
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
